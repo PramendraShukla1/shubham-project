@@ -42,7 +42,7 @@ const MotherNature = () => {
         </div>
 
         <div className="flex justify-center w-full h-full">
-          <div className="flex justify-between gap-5 lg:mt-20 mt-10 flex-wrap md:flex-nowrap h-full w-full lg:max-w-[1200px] max-w-full">
+          <div className="flex justify-between gap-10 lg:mt-20 mt-10 flex-wrap md:flex-nowrap h-full w-full lg:max-w-[1300px] max-w-full">
             <div
               className="drop-shadow-xl h-full lg:w-1/3 w-full md:w-1/2 bg-white  cursor-pointer"
               onMouseEnter={handleFirstMouseHoverEnter}
